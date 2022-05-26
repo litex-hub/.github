@@ -14,6 +14,10 @@ Have a question or want to get in touch? Our IRC channel is [#litex at irc.liber
 
 ## Popular LiteX Hub Projects
 
+### [LiteX Boards](https://github.com/litex-hub/litex-boards)
+
+LiteX board files to enable support for FPGA platforms from the very tiny Fomu to large PCIe accelerator boards.
+
 ### Linux on LiteX
 
 Run Linux on many popular FPGA boards!
@@ -24,3 +28,4 @@ Run Linux on many popular FPGA boards!
 ### FPGA 101
 
  * https://github.com/litex-hub/fpga_101
+
